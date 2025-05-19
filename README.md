@@ -2,6 +2,12 @@
 
 Este proyecto carga datos de COVID desde archivos CSV a una base de datos MySQL en la nube (GCP).
 
+## 🚀 Dashboard en vivo
+
+[👉 Accede al dashboard COVID Cundiboy](https://covid-dashboard-cundiboy.streamlit.app)
+
+Visualiza indicadores clave (contagios, recuperaciones, fallecimientos, tasas e indicadores por edad), con filtros interactivos por fecha, municipio, departamento, género y tipo de contagio.
+
 ## Requisitos
 
 - Python 3.8+
